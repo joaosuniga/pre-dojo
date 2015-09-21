@@ -1,5 +1,5 @@
 Bom dia, infelizmente o final de semana não aconteceu como o planejado, meu superior na Volkswagen solicitou que eu trabalhasse sábado (inclusive me pagou o dia a parte), pois haveria uma atualização no sistema e pediu que eu acompanhasse essa atualização realizando monitoramento constante do sistema de comunicação com fornecedores, dentro da planta Anchieta.
-Porém consegui realizar o desafio proposto, exceto a parte de testes onde realmente não tive tempo hábil para realiza-los em Junit e poderia me aprofundar muito mais na orientação a objetos.
+Porém consegui realizar o desafio proposto, exceto a parte de testes onde realmente não tive tempo hábil para realiza-los em Junit e poderia me aprofundar mais na orientação a objetos.
 O projeto foi desenvolvido com a IDE Eclipse, e minha previsão realização de teste seria com Junit. Não utilizei nenhum framework específico (Java Standard Edition).
 Para o perfeito funcionamento do projeto é necessário que o arquivo de log se chame log.txt e esteja localizado no diretório C da máquina (C:), caso exista a necessidade de alterar o path do arquivo, é necessária uma atualização da classe ParseCSV na 16° linha em
 BufferedReader BuffReader = new BufferedReader(new FileReader("c:\\log.txt"));
